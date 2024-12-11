@@ -38,11 +38,7 @@
     "@types/qs": "^6.9.7",
     "rimraf": "^3.0.2"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Sfy888/translate-tools",
-    "directory": "packages/translate-utils"
-  },
+  "repository": "https://github.com/Sfy888/translate-tools",
   "bugs": {
     "url": "https://github.com/Sfy888/translate-tools/issues"
   },
